@@ -10,7 +10,7 @@ The python anywhere domain is
 ```
 py20cjcb.pythonanywhere.com
 ```
-
+https://py20cjcb.pythonanywhere.com/
 ## Using the Client Application
 
 The command-line client allows users to interact with the API. Here are the available commands:

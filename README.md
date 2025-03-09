@@ -8,7 +8,7 @@ password: Hello123
 
 The python anywhere domain is 
 ```
-(PLACEHOLDER) py20cjcb.pythonanywhere.com (PLACEHOLDER)
+py20cjcb.pythonanywhere.com
 ```
 
 ## Using the Client Application
